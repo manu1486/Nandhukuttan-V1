@@ -46,7 +46,7 @@
 ## Developers
   <div align="center">
   
-  [![Roshan](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/pepesir)[`Roshan`](https://github.com/pepesir)
+  [![Roshan](90826638.jpeg)](https://github.com/pepesir)[`Roshan`](https://github.com/pepesir)
 ----|
    `Master Brain`
 
