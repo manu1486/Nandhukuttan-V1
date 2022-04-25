@@ -18,7 +18,7 @@ ${usedPrefix}${command} panda
   if (!res.ok) throw `${res.status} ${res.statusText}`
   let json = await res.json()
   if (!json.image) throw json
-  conn.sendFile(m.chat, json.image, '', `${json.fact}\n\n© ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3`, m)
+  conn.sendFile(m.chat, json.image, '', `${json.fact}\n\n© 𝙉𝘼𝙉𝘿𝙃𝙐𝙆𝙐𝙏𝙏𝘼𝙉 𝙑1`, m)
 }
 handler.help = ['animal'].map((v) => v + ' <opsi>')
 handler.tags = ['internet']
