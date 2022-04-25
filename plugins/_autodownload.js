@@ -38,7 +38,7 @@ handler.all = async function (m, { isPrems }) {
         let json = await res.json()
         if (!json.status) return m.reply(util.format(json))
         await m.reply(wait)
-        await conn.sendFile(m.chat, json.data.sd.url, '', `HD: ${json.data.hd.url}\nSize: ${json.data.hd.size}\n\n© Wizard-Ser`, m)
+        await conn.sendFile(m.chat, json.data.sd.url, '', `HD: ${json.data.hd.url}\nSize: ${json.data.hd.size}\n\n© Benison-Achu`, m)
     }
 
     if (/^.*instagram.com\/(p|reel|tv)/i.test(m.text)) {
@@ -100,7 +100,7 @@ handler.all = async function (m, { isPrems }) {
 *Audio File Size:* ${filesizeF}
 *Video File Sizeo:* ${yt2.filesizeF}
 *y2mate servers:* ${usedServer}
-`.trim(), watermark, 'ᴀᴜᴅɪᴏ🔉', `.yta ${vid.url}`, 'ᴠɪᴅᴇᴏ🎥', `.yt ${vid.url}`)
+`.trim(), watermark, '𝙉𝘼𝙉𝘿𝙃𝙐🔉', `.yta ${vid.url}`, '𝙉𝘼𝙉𝘿𝙃𝙐🎥', `.yt ${vid.url}`)
     }
 
 }
