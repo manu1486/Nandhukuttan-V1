@@ -50,7 +50,7 @@
 ----|
    `Master Brain`
 
-  [![Benison](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/manu1486)[`Benison`](https://github.com/manu1486)
+  [![Benison](benisonnandhu.jpg)](https://github.com/manu1486)[`Benison`](https://github.com/manu1486)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits, Programer, Base`
 
