@@ -12,6 +12,12 @@
 ## ```HOW TO DEPLOY```
 `WATCH THE TUTORIAL VIDEO CAREFULLY TO DEPLOY THE BOT OTHERWISE CHANCES TO GET ERROR`
 
+`☟︎︎︎WHATSAPP BOT GROUP☟︎︎︎`
+
+<a href="https://chat.whatsapp.com/F3PMgcH6ZZD8QX2kGnrtsH"><img src="https://img.shields.io/badge/WhatsApp group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+`☝︎CLICK BRO☝︎`
+
 [`Click Here For Tutorial`](https://youtu.be/bb2YfTT4Hv4)
 
 ----------
