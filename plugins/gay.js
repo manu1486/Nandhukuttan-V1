@@ -5,7 +5,7 @@ let handler = async (m, { conn }) => {
   let url = global.API('https://some-random-api.ml', '/canvas/gay', {
     avatar: await conn.getProfilePicture(who).catch(_ => 'https://telegra.ph/file/24fa902ead26340f3df2c.png'),
   })
-  conn.sendFile(m.chat, url, 'gay.png', 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', m, 0, { thumbnail: await (await fetch(url)).buffer() })
+  conn.sendFile(m.chat, url, 'gay.png', '𝙉𝘼𝙉𝘿𝙃𝙐𝙆𝙐𝙏𝙏𝘼𝙉 𝙑1', m, 0, { thumbnail: await (await fetch(url)).buffer() })
 }
 
 handler.help = ['gay']
