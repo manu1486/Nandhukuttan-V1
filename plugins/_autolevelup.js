@@ -34,8 +34,8 @@ handler.before = async function (m) {
                 }, 'apikey')
                 let res = await fetch(url)
                 if (before !== user.level) {
-                        if (!res.ok) return this.sendButton(m.chat, `*Naik Level!*\n*${before}* ➞ *${user.level}*`, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Ambil XP Harian', ',daily', m)
-                        await this.sendButtonImg(m.chat, url, `*Naik Level!*\n*${before}* ➞ *${user.level}*`, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Ambil XP Harian', ',daily', m)
+                        if (!res.ok) return this.sendButton(m.chat, `*Naik Level!*\n*${before}* ➞ *${user.level}*`, '𝙉𝘼𝙉𝘿𝙃𝙐𝙆𝙐𝙏𝙏𝘼𝙉 𝙑1', 'Ambil XP Harian', ',daily', m)
+                        await this.sendButtonImg(m.chat, url, `*Naik Level!*\n*${before}* ➞ *${user.level}*`, '𝙉𝘼𝙉𝘿𝙃𝙐𝙆𝙐𝙏𝙏𝘼𝙉 𝙑1', 'Ambil XP Harian', ',daily', m)
                 }
         }
 }
