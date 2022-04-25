@@ -1,5 +1,5 @@
 {
-  "name": "Wizard-Ser",
+  "name": "Nandhukuttan",
   "version": "1.1.2",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ajmal-Achu/Wizard-Ser.git"
+    "url": "git+https://github.com/manu1486/Nandhukuttan-V1.git"
   },
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "Ajmal-Achu",
+  "author": "Benison-manu",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Ajmal-Achu/Wizard-Ser/issues"
+    "url": "https://github.com/manu1486/Nandhukuttan-V1/issues"
   },
-  "homepage": "https://github.com/Ajmal-Achu/Wizard-Ser",
+  "homepage": "https://github.com/manu1486/Nandhukuttan-V1",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
     "awesome-phonenumber": "^2.54.0",
