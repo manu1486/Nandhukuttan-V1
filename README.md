@@ -46,9 +46,9 @@
 ## Developers
   <div align="center">
   
-  [![Benison](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/manu1486)[`Benison`](https://github.com/manu1486)
+  [![Roshan](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/pepesir)[`Roshan`](https://github.com/pepesir)
 ----|
-   `Base, Bug Fixes, Modules`
+   `Master Brain`
 
   [![Benison](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/manu1486)[`Benison`](https://github.com/manu1486)
 ----|
