@@ -67,12 +67,12 @@ Room ID: ${room.id}
         let users = global.db.data.users
         if ((room.game._currentTurn ^ isSurrender ? room.x : room.o) !== m.chat)
             room[room.game._currentTurn ^ isSurrender ? 'x' : 'o'] = m.chat
-        if (room.x !== room.o) await conn.sendButton(room.x, str, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Nyerah', 'nyerah', m, {
+        if (room.x !== room.o) await conn.sendButton(room.x, str, '𝙉𝘼𝙉𝘿𝙃𝙐𝙆𝙐𝙏𝙏𝘼𝙉 𝙑1', 'Nyerah', 'nyerah', m, {
             contextInfo: {
                 mentionedJid: this.parseMention(str)
             }
         })
-        await conn.sendButton(room.o, str, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Nyerah', 'nyerah', m, {
+        await conn.sendButton(room.o, str, '𝙉𝘼𝘿𝙃𝙐𝙆𝙐𝙏𝙏𝘼𝙉 𝙑1', 'Nyerah', 'nyerah', m, {
             contextInfo: {
                 mentionedJid: this.parseMention(str)
             }
