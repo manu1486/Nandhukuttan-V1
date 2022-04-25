@@ -5,7 +5,7 @@ let handler = async (m, { conn, text }) => {
   conn.reply(m.chat, `_Send a broadcast message to ${chats.length} chat_\nEstimation complete ${chats.length * 1.5} second`, m)
   for (let id of chats) {
     await delay(1500)
-    await conn.copyNForward(id, conn.cMod(m.chat, cc, /bc|broadcast/i.test(teks) ? teks : ' *〔 ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3 ʙʀᴏᴀᴅᴄᴀsᴛ 〕*\n\n' + teks + '\n\n' + `*[ ᴀʟʟ ᴄʜᴀᴛ ʙʀᴏᴀᴅᴄᴀsᴛ]*`), true).catch(_ => _)
+    await conn.copyNForward(id, conn.cMod(m.chat, cc, /bc|broadcast/i.test(teks) ? teks : ' *〔 𝙉𝘼𝙉𝘿𝙃𝙐𝙆𝙐𝙏𝙏𝘼𝙉 𝙑1 ʙʀᴏᴀᴅᴄᴀsᴛ 〕*\n\n' + teks + '\n\n' + `*[ ᴀʟʟ ᴄʜᴀᴛ ʙʀᴏᴀᴅᴄᴀsᴛ]*`), true).catch(_ => _)
   }
   m.reply('_*Broadcast Complete*_')
 }
