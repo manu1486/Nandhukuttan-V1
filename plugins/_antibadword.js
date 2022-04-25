@@ -12,13 +12,13 @@ handler.before = function (m, { isOwner, isBotAdmin }) {
     if (!chat.antiBadword && !chat.isBanned && isBadword) {
         user.warning += 1
         this.send2Button(m.chat, `*Badword terdeteksi!*
-Warning: ${user.warning} / 5
-Jika warning mencapai 5 kamu akan dibanned
+Warning: ${user.warning} / 3
+Jika warning mencapai 3 kamu akan dibanned
 
 Type *#on antibadword* untuk menyalakan antibadword
 Type *#astagfirullah* atau *#maaf* untuk mengurangi warning
 
-“Barang siapa yang beriman kepada Allah dan Hari Akhir maka hendaklah dia berkata baik atau diam” (HR. al-Bukhari dan Muslim).`, 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Nyalakan Antibadword', ',1 antibadword', 'Astaghfirullah', ',maaf', m)
+“Barang siapa yang beriman kepada Allah dan Hari Akhir maka hendaklah dia berkata baik atau diam” (HR. al-Bukhari dan Muslim).`, '𝙉𝘼𝙉𝘿𝙃𝙐𝙆𝙐𝙏𝙏𝘼𝙉 𝙑1', 'Nyalakan Antibadword', ',1 antibadword', 'Astaghfirullah', ',maaf', m)
         if (user.warning >= 5) {
             user.banned = true
             if (m.isGroup) {
