@@ -12,8 +12,8 @@ handler.all = async function (m, { conn, isBlocked }) {
     if (m.isGroup) {
         if (m.mentionedJid.includes(this.user.jid)) {
             await this.send2Button(m.chat,
-                isBanned ? 'Nandhutty not active' : banned ? 'you are banned' : 'Nandhutty active',
-                'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3',
+                isBanned ? 'Nandhukuttan not active' : banned ? 'you are banned' : 'Nandhukuttan active',
+                '𝙉𝘼𝙉𝘿𝙃𝙐𝙆𝙐𝙏𝙏𝘼𝙉 𝙑1',
                 isBanned ? 'Unban' : banned ? 'Pemilik Bot' : 'Menu',
                 isBanned ? '.unban' : banned ? '.owner' : '.?',
                 m.isGroup ? 'Ban' : isBanned ? 'Unban' : 'Donasi',
@@ -28,7 +28,7 @@ handler.all = async function (m, { conn, isBlocked }) {
  Want to add bot to your group??
 
 Type .join and paste the link
-`.trim(), 'ɴᴀɴᴅʜᴜᴛᴛʏ ᴠ3', 'Git', ',git', m)
+`.trim(), '𝙉𝘼𝙉𝘿𝙃𝙐𝙆𝙐𝙏𝙏𝘼𝙉 𝙑1', 'Git', ',git', m)
     }
 
 
@@ -53,7 +53,7 @@ Type .join and paste the link
         if (new Date() * 1 - set.status > 1000) {
             let _uptime = process.uptime() * 1000
             let uptime = conn.clockString(_uptime)
-            await this.setStatus(`Active during ${uptime} | Mode: ${set.self ? 'Private' : set.group ? 'Group Only' : 'Publik'} | Nandhutty V3 by Ajmal and Achu`).catch(_ => _)
+            await this.setStatus(`Active during ${uptime} | Mode: ${set.self ? 'Private' : set.group ? 'Group Only' : 'Publik'} | Nandhukuttan V1 by Benison as Achu`).catch(_ => _)
             set.status = new Date() * 1
         }
     }
