@@ -1,4 +1,4 @@
-# NANDHUTTY-V3
+# NANDHUKUTTAN-V1
 
 <div align="center">
   <img border-radius: 15px src="https://telegra.ph/file/a5476198bcf35794b7953.jpg" width="200" height="200"/>
@@ -30,7 +30,7 @@
 ## `DEPLOY`
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ajmal-Achu/Nandhutty-V3.git) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manu1486/Nandhukuttan-V1) 
 ----------
 
 
@@ -39,20 +39,20 @@
 `TURN OFF WEB NODE SERVER AND ENABLE WORKER NPM START`
 
 <p align="center">
-  <a href="https://github.com/Ajmal-Achu"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
+  <a href="https://github.com/manu1486"><img src="https://i.imgur.com/aSw2GKZ.jpeg" />
 </p>
 
 
 ## Developers
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![Benison](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/manu1486)[`Benison`](https://github.com/manu1486)
 ----|
    `Base, Bug Fixes, Modules`
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+  [![Benison](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/manu1486)[`Benison`](https://github.com/manu1486)
 ----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
+   `Re-Developer, Bug Fixes, Modules, Commits, Programer, Base`
 
    [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
 ----|
