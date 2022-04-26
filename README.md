@@ -31,7 +31,7 @@
 
 ## `SCAN QR`
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@BennyRaphel/NANDHU-SIR-Qr-code?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@BennyRaphel/NANDHUKUTTAN-SER-Qr-code?v=1)
 
 ## `DEPLOY`
 
