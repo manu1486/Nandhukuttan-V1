@@ -54,27 +54,11 @@
   
   [![Roshan](90826638.jpeg)](https://github.com/pepesir)[`Roshan`](https://github.com/pepesir)
 ----|
-   `Master Brain`
+   `Master of Benison`
 
   [![Benison](benisonnandhu.jpg)](https://github.com/manu1486)[`Benison`](https://github.com/manu1486)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits, Programer, Base`
-
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
-----|
-   `Re-Developer, Bug Fixes, Modules, Commits`
-
-   [![D-3-V-1-L](https://i.imgur.com/CqEfYef.jpeg)](https://github.com/D-3-V-1-L)[`D-3-V-1-L`](https://github.com/D-3-V-1-L)
-----|
-   `Bug Fixes, Modules, Commits`
-
-[![JOKER_SER](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
-----|
-   `Bug Fixes, Modules, Commits`
-
-[![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
-----|
-   `Bug Fixes, Modules`
 
 
                                   
